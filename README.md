@@ -4,3 +4,4 @@ kotlinc GamePanel.kt -include-runtime -d Shooter.jar
 # 実行
 java -jar Shooter.jar
 📝 ライセンスこのプロジェクトは MITライセンス の下で公開されています。
+<img width="620" height="792" alt="スクリーンショット 2026-05-09 193621" src="https://github.com/user-attachments/assets/fefcde74-8fbb-4e89-8e0e-85eb09e49414" />
